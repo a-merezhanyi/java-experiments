@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "cSpell.words": [
+    "Adminer",
+    "Autowired",
+    "Configurer",
+    "Csrf",
+    "JSESSIONID",
+    "Postgres",
+    "Servlet",
+    "XSRF",
+    "sonarlint"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+}
