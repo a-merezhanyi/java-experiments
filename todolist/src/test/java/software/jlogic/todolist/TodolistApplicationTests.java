@@ -1,10 +1,10 @@
-package com.in28minutes.springboot.learnsprintboot;
+package software.jlogic.todolist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearnSprintBootApplicationTests {
+class TodolistApplicationTests {
 
 	@Test
 	void contextLoads() {
