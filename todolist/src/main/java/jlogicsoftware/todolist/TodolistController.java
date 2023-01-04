@@ -1,4 +1,4 @@
-package software.jlogic.todolist;
+package jlogicsoftware.todolist;
 
 import java.util.Arrays;
 import java.util.List;

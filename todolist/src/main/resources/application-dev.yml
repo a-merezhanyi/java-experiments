@@ -1,0 +1,20 @@
+logging:
+  level:
+    org:
+      springframework: info
+
+currency-service:
+  url: http://default.in28minutes.com
+  username: defaultusername
+  key: defaultkey
+
+management:
+  info:
+      env:
+        enabled: true
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+        exclude: "env,beans"
+

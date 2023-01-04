@@ -1,4 +1,4 @@
-package software.jlogic.todolist;
+package jlogicsoftware.todolist;
 
 public class TodoTask {
     private long id;
